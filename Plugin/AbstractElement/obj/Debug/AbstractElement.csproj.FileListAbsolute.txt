@@ -1,0 +1,8 @@
+c:\Users\Kirill\documents\visual studio 2015\Projects\Plugin\AbstractElement\bin\Debug\AbstractElement.dll
+c:\Users\Kirill\documents\visual studio 2015\Projects\Plugin\AbstractElement\bin\Debug\AbstractElement.pdb
+c:\Users\Kirill\documents\visual studio 2015\Projects\Plugin\AbstractElement\obj\Debug\AbstractElement.IDiagramShower.resources
+c:\Users\Kirill\documents\visual studio 2015\Projects\Plugin\AbstractElement\obj\Debug\AbstractElement.csproj.GenerateResource.Cache
+c:\Users\Kirill\documents\visual studio 2015\Projects\Plugin\AbstractElement\obj\Debug\AbstractElement.dll
+c:\Users\Kirill\documents\visual studio 2015\Projects\Plugin\AbstractElement\obj\Debug\AbstractElement.pdb
+c:\Users\Kirill\documents\visual studio 2015\Projects\Plugin\Plugin\bin\Debug\AbstractElement.dll
+c:\Users\Kirill\documents\visual studio 2015\Projects\Plugin\Plugin\bin\Debug\AbstractElement.pdb

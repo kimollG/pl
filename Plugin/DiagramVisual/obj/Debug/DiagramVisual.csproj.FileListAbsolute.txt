@@ -1,0 +1,10 @@
+c:\Users\Kirill\documents\visual studio 2015\Projects\Plugin\DiagramVisual\bin\Debug\DiagramVisual.dll
+c:\Users\Kirill\documents\visual studio 2015\Projects\Plugin\DiagramVisual\bin\Debug\DiagramVisual.pdb
+c:\Users\Kirill\documents\visual studio 2015\Projects\Plugin\DiagramVisual\bin\Debug\AbstractElement.dll
+c:\Users\Kirill\documents\visual studio 2015\Projects\Plugin\DiagramVisual\obj\Debug\DiagramVisual.csprojResolveAssemblyReference.cache
+c:\Users\Kirill\documents\visual studio 2015\Projects\Plugin\DiagramVisual\obj\Debug\DiagramVisual.dll
+c:\Users\Kirill\documents\visual studio 2015\Projects\Plugin\DiagramVisual\obj\Debug\DiagramVisual.pdb
+c:\Users\Kirill\documents\visual studio 2015\Projects\Plugin\DiagramVisual\obj\Debug\DiagramVisual.csproj.GenerateResource.Cache
+c:\Users\Kirill\documents\visual studio 2015\Projects\Plugin\DiagramVisual\obj\Debug\Elements.Plugins.DiagramShower.resources
+c:\Users\Kirill\documents\visual studio 2015\Projects\Plugin\Plugin\bin\Debug\DiagramVisual.dll
+c:\Users\Kirill\documents\visual studio 2015\Projects\Plugin\Plugin\bin\Debug\DiagramVisual.pdb

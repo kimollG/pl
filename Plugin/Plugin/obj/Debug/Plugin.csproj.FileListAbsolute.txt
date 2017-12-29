@@ -1,0 +1,10 @@
+c:\users\kirill\documents\visual studio 2015\Projects\Plugin\Plugin\bin\Debug\Plugin.exe.config
+c:\users\kirill\documents\visual studio 2015\Projects\Plugin\Plugin\bin\Debug\Plugin.exe
+c:\users\kirill\documents\visual studio 2015\Projects\Plugin\Plugin\bin\Debug\Plugin.pdb
+c:\users\kirill\documents\visual studio 2015\Projects\Plugin\Plugin\obj\Debug\Plugin.csprojResolveAssemblyReference.cache
+c:\users\kirill\documents\visual studio 2015\Projects\Plugin\Plugin\obj\Debug\Plugin.Form1.resources
+c:\users\kirill\documents\visual studio 2015\Projects\Plugin\Plugin\obj\Debug\Plugin.Properties.Resources.resources
+c:\users\kirill\documents\visual studio 2015\Projects\Plugin\Plugin\obj\Debug\Plugin.csproj.GenerateResource.Cache
+c:\users\kirill\documents\visual studio 2015\Projects\Plugin\Plugin\obj\Debug\Plugin.exe
+c:\users\kirill\documents\visual studio 2015\Projects\Plugin\Plugin\obj\Debug\Plugin.pdb
+c:\users\kirill\documents\visual studio 2015\Projects\Plugin\Plugin\bin\Debug\AbstractElement.pdb
